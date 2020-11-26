@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLiteDemo</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_age">Enter Your Age</string>
+    <string name="active_customer">Active Customer</string>
+    <string name="add_new">Add New</string>
+    <string name="view_all">View All</string>
+</resources>

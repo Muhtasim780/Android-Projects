@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "622608516664",
+    "firebase_url": "https://parkmycar-3afc9.firebaseio.com",
+    "project_id": "parkmycar-3afc9",
+    "storage_bucket": "parkmycar-3afc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622608516664:android:82f22ef10acfe60d8688cd",
+        "android_client_info": {
+          "package_name": "com.muhtasim.parkmycar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622608516664-9d5h85co9br5cnjtjbag5qsm0p6in30s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGHDJcLez9IZqIQHtNa2kuQnX7ggyCwiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622608516664-9d5h85co9br5cnjtjbag5qsm0p6in30s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
